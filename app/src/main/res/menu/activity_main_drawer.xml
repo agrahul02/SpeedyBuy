@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_speedybuy"
+            android:icon="@drawable/home_icon"
+            android:title="My Speedy Buy"/>
+        <item
+            android:id="@+id/nav_favorite"
+            android:icon="@drawable/favorite_1"
+            android:title="Favorite" />
+<!--        <item-->
+<!--            android:id="@+id/nav_my_cart"-->
+<!--            android:icon="@drawable/cart"-->
+<!--            android:title="cart" />-->
+        <item
+            android:id="@+id/nav_online_help"
+            android:icon="@drawable/phone_icon"
+            android:title="Online Help" />
+        <item
+            android:id="@+id/nav_my_account"
+            android:icon="@drawable/profile_icon"
+            android:title="My Account" />
+<!--        <item-->
+<!--            android:id="@+id/nav_my_order"-->
+<!--            android:icon="@drawable/profile_icon"-->
+<!--            android:title="My order" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_my_wishlist"-->
+<!--            android:icon="@drawable/profile_icon"-->
+<!--            android:title="My wishlist" />-->
+<!--        <item-->
+<!--            android:id="@+id/nav_reword"-->
+<!--            android:icon="@drawable/phone_icon"-->
+<!--            android:title="My reword" />-->
+    </group>
+    <item
+        android:id="@+id/nav_sign_out"
+        android:icon="@drawable/sign_out"
+        android:title="Sign Out" />
+</menu>

@@ -1,0 +1,163 @@
+{
+  "project_info": {
+    "project_number": "301391229341",
+    "firebase_url": "https://myspeedybuy-149bc-default-rtdb.firebaseio.com",
+    "project_id": "myspeedybuy-149bc",
+    "storage_bucket": "myspeedybuy-149bc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301391229341:android:7179dcbc6603db36fcff74",
+        "android_client_info": {
+          "package_name": "com.example.myspeedybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301391229341-na26d88ovidklid9ue9od8r89ri9hp2d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myspeedybuy",
+            "certificate_hash": "acc9bee8565e7dad69ed267c3beef24589ef0985"
+          }
+        },
+        {
+          "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGG5ohbf8Jxcn4wS9XhIitc0vCK_l1Io"
+        },
+        {
+          "current_key": "AIzaSyApV6xXOJis5fzI2x4Zf7ZlrHqZi97zzSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301391229341:android:440282e211c0ac24fcff74",
+        "android_client_info": {
+          "package_name": "com.example.skychat01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301391229341-s2afj2apiee3t11r675uija6jmpfkf15.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.skychat01",
+            "certificate_hash": "acc9bee8565e7dad69ed267c3beef24589ef0985"
+          }
+        },
+        {
+          "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGG5ohbf8Jxcn4wS9XhIitc0vCK_l1Io"
+        },
+        {
+          "current_key": "AIzaSyApV6xXOJis5fzI2x4Zf7ZlrHqZi97zzSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301391229341:android:58de74fbaa5ff7b9fcff74",
+        "android_client_info": {
+          "package_name": "com.example.speedybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGG5ohbf8Jxcn4wS9XhIitc0vCK_l1Io"
+        },
+        {
+          "current_key": "AIzaSyApV6xXOJis5fzI2x4Zf7ZlrHqZi97zzSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301391229341:android:6a67ccf8909563fcfcff74",
+        "android_client_info": {
+          "package_name": "com.speedybuy.speedybuy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301391229341-u7jssusks9rhhdtp8u2et7p8nb2amf4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.speedybuy.speedybuy",
+            "certificate_hash": "acc9bee8565e7dad69ed267c3beef24589ef0985"
+          }
+        },
+        {
+          "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqGG5ohbf8Jxcn4wS9XhIitc0vCK_l1Io"
+        },
+        {
+          "current_key": "AIzaSyApV6xXOJis5fzI2x4Zf7ZlrHqZi97zzSU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301391229341-sg0v83esu6qmq6665ic3ab2gjeahb2uj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
